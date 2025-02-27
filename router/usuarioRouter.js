@@ -11,4 +11,5 @@ router.get("/usuario/buscar", UsuarioController.buscarUsuario);
 module.exports = router;
 
 // creado por grd. 2021-09-07
+// creado por gerardo ojeda 2021-09-07
 
